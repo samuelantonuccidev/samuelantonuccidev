@@ -1,4 +1,4 @@
-## Seja bem-vindo 👋 Eu sou o Samuel Antonucci e sou estudante de Análise e Desenvolvimento de Sistemas 💻
+### Seja bem-vindo 👋 Eu sou o Samuel Antonucci e sou estudante de Análise e Desenvolvimento de Sistemas 💻
 ## 💼 Sobre mim
 
 🔹 Estou **em busca de oportunidades** na área de desenvolvimento.  
