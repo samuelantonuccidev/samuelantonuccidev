@@ -1,4 +1,10 @@
 ### Seja bem-vindo 👋 Eu sou o Samuel Antonucci e sou estudante de Análise e Desenvolvimento de Sistemas 💻
+## 💼 Sobre mim
+
+🔹 Estou **em busca de oportunidades** na área de desenvolvimento.  
+🔹 **Disponível para início imediato.**  
+🔹 Apaixonado por tecnologia, aprendizado constante e criação de soluções eficientes.  
+
 
 ## Tecnologias que eu uso no meu dia
 
