@@ -1,4 +1,4 @@
-### Olá Pessoal 👋
+### Seja bem-vindo 👋 Eu sou o Samuel Antonucci e sou estudante de Análise e Desenvolvimento de Sistemas
 
 <!--
 **samuelantonuccidev/samuelantonuccidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
